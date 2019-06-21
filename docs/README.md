@@ -93,7 +93,7 @@
 
 以下がここまでの内容をまとめた ER 図
 
-![ER](/Users/kento/Programing/JavaProjects/ReactSpringBootApp/docs/assets/ER.png)
+![ER](https://github.com/Kento75/ReactSpringBootApp/blob/master/docs/assets/ER.png)
 
 
 
